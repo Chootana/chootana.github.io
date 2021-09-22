@@ -39,7 +39,6 @@ ShowToc: true
 
 
 ---
----
 
 # VRC World 
 
@@ -59,28 +58,26 @@ ShowToc: true
 
 <br>
 
---- 
 
 ---
 # BOOTH 
 --- 
 
-### [Rotation Constraintを簡単に追加するためのUnityエディタ拡張](https://chootana.booth.pm/items/2602285)
+- [Rotation Constraintを簡単に追加するためのUnityエディタ拡張](https://chootana.booth.pm/items/2602285)
 
 <br>
 
-### [サブアーム[FinalIK設定済み]](https://chootana.booth.pm/items/2801406)
+- [サブアーム[FinalIK設定済み]](https://chootana.booth.pm/items/2801406)
 
 <br>
 
---- 
 ---
 
 # Qiita
 --- 
 
-### [FinalIK for VRChat [アイテム持ち替え]](https://qiita.com/Chootana/items/e9c05ebbaa52d76ac5dd)
+- [FinalIK for VRChat [アイテム持ち替え]](https://qiita.com/Chootana/items/e9c05ebbaa52d76ac5dd)
 
 <br>
 
-### [FinalIK for VRChat [多関節アーム追従]](https://qiita.com/Chootana/items/b30fc152e3325ae7b682)
+- [FinalIK for VRChat [多関節アーム追従]](https://qiita.com/Chootana/items/b30fc152e3325ae7b682)
