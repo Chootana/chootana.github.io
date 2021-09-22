@@ -69,7 +69,7 @@ ShowToc: true
 
 <br>
 
-### [サブアーム[FinalIK設定済み]](サブアーム[FinalIK設定済み])
+### [サブアーム[FinalIK設定済み]](https://chootana.booth.pm/items/2801406)
 
 <br>
 
