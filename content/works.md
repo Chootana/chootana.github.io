@@ -68,6 +68,14 @@ ShowToc: true
 # BOOTH 
 --- 
 
+- [Anim-Mesh GPU Particle Shader](https://chootana.booth.pm/items/3443650)
+
+<br>
+
+- [[VRC] Animation Instancing Generator](https://chootana.booth.pm/items/3439194)
+
+<br>
+
 - [Rotation Constraintを簡単に追加するためのUnityエディタ拡張](https://chootana.booth.pm/items/2602285)
 
 <br>
