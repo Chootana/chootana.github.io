@@ -16,6 +16,9 @@ ShowToc: true
 
 --- 
 
+### [Galatea City - ガラテア都市 -](https://vrchat.com/home/launch?worldId=wrld_1b507127-0760-48cc-b579-a80baa620f24)
+![FSDHL4PaIAEQ6IN](https://user-images.githubusercontent.com/44863813/179463091-c6658ee6-d519-46c8-b394-cad49e7c0a85.jpg)
+
 ### [How Many Nights ?](https://vrchat.com/home/launch?worldId=wrld_98d0daaf-3751-468f-92d9-656a46319be0&instanceId=0){:target="_blank"}
 
 {{< youtube vfeOBB-85Ic >}}
@@ -33,7 +36,8 @@ ShowToc: true
 # Github
 
 ---
-
+### [VRC AnimMeshGpuParticle](https://github.com/Chootana/VRCU_AnimMeshGpuParticle)
+![anim_mesh_gpu_particle_main](https://user-images.githubusercontent.com/44863813/144735700-c170dcdf-be27-4133-9927-96afc5c1d26b.gif)
 
 ### [VRC Animation GPU Instancing](https://github.com/Chootana/VRCU_GpuAnimationInstancing){:target="_blank"}
 
