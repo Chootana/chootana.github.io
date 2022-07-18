@@ -54,7 +54,7 @@ params:
     profileMode:
         enabled: true # needs to be explicitly set
         title: Chootana
-        subtitle: "AI/ Unity/ VR Engineer"
+        subtitle: "Motion AI/ Houdini/ VR"
         imageUrl: "profile.JPG"
         imageWidth: 360
         imageHeight: 360
