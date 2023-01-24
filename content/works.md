@@ -9,9 +9,21 @@ ShowToc: true
 
 <!--more-->
 
+---
+# VRC Events
 
+### [SANRIO Virtual Festival2023 - TORIENA with BC](https://v-fes.sanrio.co.jp/#artist)
+    - Engineer: Houdini, Unity, Shader for VFX 
+    - Motion Designer: Motion Capture for Animation
+
+- [DAY1 5:35:02~]
+{{< youtube Bh7-ftheCPs >}}
+
+- [DAY2 5:55:18~]
+{{< youtube W_EckN5OGzc>}}
 ---
 
+---
 # VRC World 
 
 --- 
