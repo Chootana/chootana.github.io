@@ -16,6 +16,8 @@ ShowToc: true
     - Engineer: Houdini, Unity, Shader for VFX 
     - Motion Designer: Motion Capture for Animation
 
+- [サンリオVfes2023 TORIENA with BC の破壊](https://note.com/chootana/n/n658ca3be76e8)
+
 - [DAY1 5:35:02~]
 {{< youtube Bh7-ftheCPs >}}
 
