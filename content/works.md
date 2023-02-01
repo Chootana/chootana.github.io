@@ -18,11 +18,6 @@ ShowToc: true
 
 - [サンリオVfes2023 TORIENA with BC の破壊](https://note.com/chootana/n/n658ca3be76e8)
 
-- [DAY1 5:35:02~]
-{{< youtube Bh7-ftheCPs >}}
-
-- [DAY2 5:55:18~]
-{{< youtube W_EckN5OGzc>}}
 ---
 
 ---
