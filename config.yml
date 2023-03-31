@@ -62,6 +62,8 @@ params:
         buttons:
             - name: Works
               url: works
+            - name: Mardini2023
+              url: mardini2023
 
 
     # home-info mode
