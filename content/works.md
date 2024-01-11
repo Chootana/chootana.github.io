@@ -13,8 +13,11 @@ ShowToc: true
 # VRC Events
 
 ### CIEL LIVE SHOWCASE at VRChat
-- Technical Artist
-- Motion Designer
+- Technical Artist: 
+- Motion Designer (Mocap Animation)
+
+### シアターコモンズ ’23 サエボーグ『ソウルトピア』
+- Technical Artist: Particle Effect (milk splash, confetti, etc)
 
 ### [SANRIO Virtual Festival2023 - TORIENA with BC](https://v-fes.sanrio.co.jp/#artist)
 - Engineer: Houdini, Unity, Shader for VFX 
