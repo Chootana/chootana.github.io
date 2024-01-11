@@ -12,11 +12,15 @@ ShowToc: true
 ---
 # VRC Events
 
-### [SANRIO Virtual Festival2023 - TORIENA with BC](https://v-fes.sanrio.co.jp/#artist)
-    - Engineer: Houdini, Unity, Shader for VFX 
-    - Motion Designer: Motion Capture for Animation
+### CIEL LIVE SHOWCASE at VRChat
+- Technical Artist
+- Motion Designer
 
-- [サンリオVfes2023 TORIENA with BC の破壊](https://note.com/chootana/n/n658ca3be76e8)
+### [SANRIO Virtual Festival2023 - TORIENA with BC](https://v-fes.sanrio.co.jp/#artist)
+- Engineer: Houdini, Unity, Shader for VFX 
+- Motion Designer: Motion Capture for Animation
+
+
 
 ---
 
@@ -71,6 +75,12 @@ ShowToc: true
 <br>
 
 
+---
+# NOTE
+---
+- [サンリオVfes2023 TORIENA with BC の破壊](https://note.com/chootana/n/n658ca3be76e8)
+
+<br>
 
 
 ---

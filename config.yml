@@ -111,10 +111,18 @@ params:
 
 menu:
     main:
+
+        - identifier: mardini2023
+          name: mardini2023
+          url: /mardini2023/
+          weight: 10
+          
         - identifier: works
           name: works
           url: /works/
           weight: 10
+
+
 
         # - identifier: tags
         #   name: tags
